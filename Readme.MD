@@ -21,7 +21,7 @@ Minesweeper is a classic game where players click on gray squares to reveal whet
 
 ## Getting Started
 
-1. Clone the repository: `git clone https://github.com/your-username/mouse-trap-game.git`
+1. Clone the repository: `git clone  https://taleluz.github.io/the-minesweeper-Game/`
 2. Open the project folder in your code editor.
 3. Open `index.html` in your web browser to play the game.
 
